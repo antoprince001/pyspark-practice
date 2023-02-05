@@ -1,5 +1,5 @@
 # pyspark-notebooks
-Collection of pyspark code snippets in jupyter notebook used to learn pyspark fundamentals.
+Collection of pyspark code snippets developed in jupyter notebook to learn pyspark fundamentals.
 
 - Spark Introduction
 - Spark Dataframe
